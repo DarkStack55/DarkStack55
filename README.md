@@ -32,13 +32,13 @@
 ```yaml
 name: DarkStack55
 role: Software Developer
-focus: [Backend Development, Data Structures & Algorithms, Cloud Computing]
+focus: [ Data Structures & Algorithms, Cloud Computing]
 languages: [Python, C, Java]
 environment: Linux
 currently_building: "real-world projects while sharpening core CS fundamentals"
 ```
 
-- 🔭 I build software with a focus on **backend systems, algorithms, and clean engineering**
+- 🔭 I build software with a focus on ** algorithms, and clean engineering**
 - 🧩 I spend a lot of time on **Data Structures & Algorithms** and competitive problem solving
 - 🐧 I work primarily in a **Linux** environment — terminal-first workflow
 - ☁️ I explore **AWS** and cloud computing fundamentals
